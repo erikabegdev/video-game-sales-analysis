@@ -1,7 +1,7 @@
 ## Video Game Sales Analysis
 ### Objective
 
-** Analyze historical video game sales data to identify patterns that determine market success and support strategic decisions for 2017.** 
+Analyze historical video game sales data to identify patterns that determine market success and support strategic decisions for 2017.
 
 - Skills Applied
 - Python
