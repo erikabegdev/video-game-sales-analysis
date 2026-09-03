@@ -132,6 +132,12 @@ Com base nos resultados, recomenda-se:
 ## 📁 Estrutura do projeto
 
 ```text
-📦 projeto-analise-videogames
- ┣ 📓 projeto_integrado_1.ipynb
- ┗ 📄 README.md
+video-game-sales-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── games.csv
+│
+└── notebook/
+    └── video_game_analysis.ipynb
